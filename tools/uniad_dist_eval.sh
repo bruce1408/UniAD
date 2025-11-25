@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
-T=`date +%m%d%H%M`
+# T=`date +%m%d%H%M`
+T=$(date +%m%d%H%M)
 
 # -------------------------------------------------- #
 # Usually you only need to customize these variables #
