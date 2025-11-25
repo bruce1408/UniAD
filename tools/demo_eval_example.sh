@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 # 一阶段“跟踪（Track）” 和 “建图（Map）”
 # ./tools/uniad_dist_eval.sh \
 # ./projects/configs/stage1_track_map/base_track_map.py \
